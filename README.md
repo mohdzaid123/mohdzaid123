@@ -225,7 +225,7 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.mohdzaid123.vercel.app/api?username=mohdzaid123&show_icons=true" />
 </picture>
 ```
 
