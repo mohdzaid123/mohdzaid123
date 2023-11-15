@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1700043125~exp=1700043725~hmac=11e0cd4fef9fe00928de16c41390c9bf3563bf953983bcd73dcde23224de0f6d)
 <h1 align="center">Hi 👋, I'm Mohdzaid</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
